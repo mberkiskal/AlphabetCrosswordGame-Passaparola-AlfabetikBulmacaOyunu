@@ -1,0 +1,11 @@
+C:\Users\mberk\source\repos\p3Passaparola\p3Passaparola\bin\Debug\p3Passaparola.exe.config
+C:\Users\mberk\source\repos\p3Passaparola\p3Passaparola\bin\Debug\p3Passaparola.exe
+C:\Users\mberk\source\repos\p3Passaparola\p3Passaparola\bin\Debug\p3Passaparola.pdb
+C:\Users\mberk\source\repos\p3Passaparola\p3Passaparola\obj\Debug\p3Passaparola.csproj.AssemblyReference.cache
+C:\Users\mberk\source\repos\p3Passaparola\p3Passaparola\obj\Debug\p3Passaparola.csproj.SuggestedBindingRedirects.cache
+C:\Users\mberk\source\repos\p3Passaparola\p3Passaparola\obj\Debug\p3Passaparola.Form1.resources
+C:\Users\mberk\source\repos\p3Passaparola\p3Passaparola\obj\Debug\p3Passaparola.Properties.Resources.resources
+C:\Users\mberk\source\repos\p3Passaparola\p3Passaparola\obj\Debug\p3Passaparola.csproj.GenerateResource.cache
+C:\Users\mberk\source\repos\p3Passaparola\p3Passaparola\obj\Debug\p3Passaparola.csproj.CoreCompileInputs.cache
+C:\Users\mberk\source\repos\p3Passaparola\p3Passaparola\obj\Debug\p3Passaparola.exe
+C:\Users\mberk\source\repos\p3Passaparola\p3Passaparola\obj\Debug\p3Passaparola.pdb
